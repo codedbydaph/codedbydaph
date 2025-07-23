@@ -56,6 +56,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/codedbydaph/codedbydaph/output/snake.svg" alt="Snake animation" />
 
 ###

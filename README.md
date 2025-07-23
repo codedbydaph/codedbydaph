@@ -53,6 +53,7 @@
 </div>
 
 ###
+<div style="display: flex; align-items: center; gap: 10px;">
 
 <img align="left" height="120" src="https://art.ngfiles.com/images/1553000/1553283_powpink_hello-kitty-walk.gif?f1608575112"  />
 
@@ -63,6 +64,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbydaph/codedbydaph/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codedbydaph/codedbydaph/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 ###
 

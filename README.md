@@ -54,12 +54,12 @@
 
 ###
 <div style="display: flex; align-items: center; margin: 10px;">
-  <img height="140" src="https://art.ngfiles.com/images/1553000/1553283_powpink_hello-kitty-walk.gif?f1608575112" alt="hello kitty gif" />
+  <img height="120" src="https://art.ngfiles.com/images/1553000/1553283_powpink_hello-kitty-walk.gif?f1608575112" alt="hello kitty gif" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbydaph/codedbydaph/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbydaph/codedbydaph/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codedbydaph/output/output/pacman-contribution-graph.svg" height="140">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codedbydaph/output/output/pacman-contribution-graph.svg" height="120">
   </picture>
 </div>
 

@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fc-programming&psig=AOvVaw0fu9g8X6E24KrOvLOaKe7L&ust=1756995475902000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDdmKzkvI8DFQAAAAAdAAAAABAE)" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />

@@ -54,10 +54,3 @@
   </picture>
 </div>
 
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codedbydaph.codedbydaph&left_color=dimgray&right_color=cadetblue"  />
-</div>
-
-###
